@@ -15,7 +15,7 @@
 
         <div class="grid grid-cols-4 gap-4">
             <!-- card-start -->
-            <div class="card bg-cyan-300">
+            <div class="card ">
                 <div class="px-4 py-2">
                     <div class="flex items-center justify-between">
                         <div class="text-start">
@@ -27,7 +27,7 @@
                 </div>
             </div> <!-- card-end -->
             <!-- card-start -->
-            <div class="card bg-sky-300">
+            <div class="card ">
                 <div class="px-4 py-2">
                     <div class="flex items-center justify-between">
                         <div class="text-start">
@@ -39,7 +39,7 @@
                 </div>
             </div> <!-- card-end -->
             <!-- card-start -->
-            <div class="card bg-blue-300">
+            <div class="card ">
                 <div class="px-4 py-2">
                     <div class="flex items-center justify-between">
                         <div class="text-start">
@@ -51,7 +51,7 @@
                 </div>
             </div> <!-- card-end -->
             <!-- card-start -->
-            <div class="card bg-indigo-300">
+            <div class="card ">
                 <div class="px-4 py-2">
                     <div class="flex items-center justify-between">
                         <div class="text-start">

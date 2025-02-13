@@ -24,6 +24,7 @@ class RoleSeeder extends Seeder
             'developer',
             'accountant',
             'manager',
+            'agent'
         ];
 
         // Creating roles and assigning permission

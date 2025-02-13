@@ -31,6 +31,7 @@ return new class extends Migration
             $table->string('email')->nullable();
             $table->string('house');
             $table->longText('note')->nullable();
+            $table->json('others_owner')->nullable();
             $table->timestamps();
             $table->softDeletes();
         });
